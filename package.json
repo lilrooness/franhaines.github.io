@@ -1,0 +1,19 @@
+{
+  "name": "Emma May Photography",
+  "description": "Portfolio Website for Emma May Photography",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/franhaines/emmamayphotography"
+  },
+  "dependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-copy": "*",
+    "bower": "*",
+    "grunt-exec": "*"
+  },
+  "engines": {
+      "npm": "1.2.x"
+  }
+}
