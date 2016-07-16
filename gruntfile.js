@@ -1,17 +1,6 @@
 module.exports = function(grunt) {
   
 grunt.initConfig({
-  less: {
-    production: {
-      options: {
-        paths: ["bower_components/bootstrap/less"],
-        yuicompress: true
-      },
-      files: {
-        "assets/css/application.min.css": "assets/_less/application.less"
-      }
-    }
-  },
   uglify: {
     jquery: {
       files: {
