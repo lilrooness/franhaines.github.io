@@ -13,6 +13,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://emmamayphotography.co.uk" # the base hostname & protocol for your site
 twitter_username: pixxelated
 github_username:  franhaines
+facebook_username: emmamayphotograph
 
 # Build settings
 markdown: kramdown

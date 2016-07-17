@@ -1,0 +1,23 @@
+.button {
+  padding: 10px 20px;
+  background-color: transparent;
+  text-transform: uppercase;
+  font-weight: 300;
+}
+
+.btn-white {
+  border: 2px solid $white;
+  color: $white;
+  transition: 0.5s ease all;
+  &:hover {
+    color: $grey-dark;
+    background: $white;
+  }
+}
+
+.btn-center {
+  margin: 0 auto;
+  display: block;
+  top: 75%;
+  position: relative;
+}
