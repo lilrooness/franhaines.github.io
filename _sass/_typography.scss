@@ -1,0 +1,21 @@
+h2 {
+  font-size: 40px;
+}
+
+.text-on-image {
+  left: 0;
+  position:absolute;
+  text-align:center;
+  top: 200px;
+  width: 100%
+}
+
+//Webfonts
+@font-face {
+  font-family: 'halohandletterregular';
+  src: url('/assets/fonts/halohandletter-webfont.woff2') format('woff2'),
+       url('/assets/fonts/halohandletter-webfont.woff') format('woff'),
+       url('/assets/fonts/halohandletter-webfont.otf') format('otf');
+  font-weight: normal;
+  font-style: normal;
+}

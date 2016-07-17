@@ -1,0 +1,25 @@
+.background-image {
+  display: block;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 600px;
+  background-position: center;
+  margin-top: -131px;
+  z-index: 0;
+  h2 {
+    color: $white;
+    text-transform: uppercase;
+    font-size: 40px;
+  }
+  .accent-font {
+    color: $brand;
+    font-family: 'halohandletterregular';
+    font-size: 100px;
+    line-height: 0px;
+  }
+}
+
+.logo-sm {
+	width: 60px;
+}

@@ -1,12 +1,10 @@
 {
-  "name": "EmmaMayPhotography",
+  "name": "emmamayphotography",
+  "version": "0.0.1",
   "dependencies": {
-    "bootstrap": "~3.0.0",
-    "jquery": "~2.0.3"
+    "bootstrap": "~3.3.6",
+    "jquery": "~2.2.0",
+    "components-font-awesome": "https://github.com/components/font-awesome.git#^4.6.3"
   },
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components"
-  ]
+  "private": true
 }
