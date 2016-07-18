@@ -18,7 +18,7 @@ p {
   left: 0;
   position: absolute;
   text-align: center;
-  top: 200px;
+  top: 285px;
   width: 100%;
   font-family: $open-sans;
 }
@@ -35,12 +35,12 @@ p {
 
 @font-face {
   font-family: 'Open Sans';
-  src:  url("/bower_components/open-sans-fontface/fonts/Regular/OpenSans-Regular.eot");
-  src:  url("/bower_components/open-sans-fontface/fonts/Regular/OpenSans-Regular.eot") format("embedded-opentype"), 
-        url("/bower_components/open-sans-fontface/fonts/Regular/OpenSans-Regular.woff2?v=1.1.0") format("woff2"), 
-        url("/bower_components/open-sans-fontface/fonts/Regular/OpenSans-Regular.woff?v=1.1.0") format("woff"), 
-        url("/bower_components/open-sans-fontface/fonts/Regular/OpenSans-Regular.ttf?v=1.1.0") format("truetype"), 
-        url("/bower_components/open-sans-fontface/fonts/Regular/OpenSans-Regular.svg?v=1.1.0#Regular") format("svg");
+  src:  url("/libs/open-sans-fontface/fonts/Regular/OpenSans-Regular.eot");
+  src:  url("/libs/open-sans-fontface/fonts/Regular/OpenSans-Regular.eot") format("embedded-opentype"), 
+        url("/libs/open-sans-fontface/fonts/Regular/OpenSans-Regular.woff2?v=1.1.0") format("woff2"), 
+        url("/libs/open-sans-fontface/fonts/Regular/OpenSans-Regular.woff?v=1.1.0") format("woff"), 
+        url("/libs/open-sans-fontface/fonts/Regular/OpenSans-Regular.ttf?v=1.1.0") format("truetype"), 
+        url("/libs/open-sans-fontface/fonts/Regular/OpenSans-Regular.svg?v=1.1.0#Regular") format("svg");
   font-weight: 300;
   font-style: normal; 
 }
