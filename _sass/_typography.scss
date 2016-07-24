@@ -9,18 +9,54 @@ p {
 }
 
 .script-header {
-  color: $brand;
   font-family: 'halohandletterregular';
   font-size: 70px;
+}
+
+.brand-color {
+  color: $brand;
+}
+
+.white-color {
+  color: $white;
+}
+
+.uppercase-header {
+  font-family: $open-sans;
+  font-size: 50px;
+  text-transform: uppercase;
+}
+
+.text-on-image-hero {
+  left: 0;
+  position: absolute;
+  text-align: center;
+  top: 230px;
+  width: 100%;
+  font-family: $open-sans;
 }
 
 .text-on-image {
   left: 0;
   position: absolute;
   text-align: center;
-  top: 285px;
   width: 100%;
   font-family: $open-sans;
+  top: 21%;
+}
+
+.rotate {
+  /* Safari */
+  -webkit-transform: rotate(-90deg);
+
+  /* Firefox */
+  -moz-transform: rotate(-90deg);
+
+  /* IE */
+  -ms-transform: rotate(-90deg);
+
+  /* Opera */
+  -o-transform: rotate(-90deg);
 }
 
 //Webfonts

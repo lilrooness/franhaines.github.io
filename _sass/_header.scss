@@ -35,6 +35,9 @@ header {
     color: $white;
     line-height: $base-line-height;
     text-transform: uppercase;
+    @include media-query($on-palm) {
+      color: $grey-dark;
+    }
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
       margin-right: 20px;
@@ -43,7 +46,7 @@ header {
 
   @include media-query($on-palm) {
     position: absolute;
-    top: 9px;
+    padding-bottom: 8px;
     right: $spacing-unit / 2;
     background-color: #fdfdfd;
     border: 1px solid $grey-light;
@@ -76,7 +79,7 @@ header {
 
     &:hover .trigger {
       display: block;
-      padding-bottom: 5px;
+      padding: 10px 0px 5px 0px;
     }
 
     .page-link {

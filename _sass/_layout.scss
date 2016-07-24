@@ -3,8 +3,8 @@ section {
 }
 
 // Sections
-.white-bg {
-
+.grey-bg {
+  background-color: $grey;
 }
 
 
@@ -61,10 +61,13 @@ footer {
   margin-left: 0;
 }
 
-.padding-left-sm {
+.pl-sm {
   padding-left: 10px;
 }
 
+.pb-md {
+  padding-bottom: 25px;
+}
 
 /**
  * Posts
