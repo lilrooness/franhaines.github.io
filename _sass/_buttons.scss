@@ -1,8 +1,17 @@
-.button {
+.button-sm {
   padding: 10px 20px;
   background-color: transparent;
   text-transform: uppercase;
   font-weight: 300;
+}
+
+.button-lg {
+  padding: 20px 44px;
+  background-color: transparent;
+  text-transform: uppercase;
+  font-weight: 300;
+  font-size: 25px;
+  margin: 10px;
 }
 
 .btn-white {
