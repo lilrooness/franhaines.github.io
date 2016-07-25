@@ -1,6 +1,7 @@
 h2 {
   font-size: 40px;
   font-family: $open-sans;
+  margin-top: 0px !important;
 }
 
 p {
@@ -10,7 +11,7 @@ p {
 
 .script-header {
   font-family: 'halohandletterregular';
-  font-size: 70px;
+  font-size: 90px;
 }
 
 .brand-color {
@@ -31,7 +32,7 @@ p {
   left: 0;
   position: absolute;
   text-align: center;
-  top: 230px;
+  top: 300px;
   width: 100%;
   font-family: $open-sans;
 }
@@ -42,21 +43,8 @@ p {
   text-align: center;
   width: 100%;
   font-family: $open-sans;
-  top: 21%;
-}
-
-.rotate {
-  /* Safari */
-  -webkit-transform: rotate(-90deg);
-
-  /* Firefox */
-  -moz-transform: rotate(-90deg);
-
-  /* IE */
-  -ms-transform: rotate(-90deg);
-
-  /* Opera */
-  -o-transform: rotate(-90deg);
+  top: 37%;
+  z-index: 20;
 }
 
 //Webfonts
