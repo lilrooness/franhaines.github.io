@@ -9,6 +9,37 @@ p {
   font-family: $open-sans;
 }
 
+.markdown {
+  h1 {
+    font-family: 'halohandletterregular';
+    font-size: 80px;
+    color: $brand;
+  }
+  h2 {
+    font-family: $open-sans;
+    font-size: 30px;
+    color: $grey-dark;
+  }
+  h3 {
+    font-family: $open-sans;
+    font-size: 20px;
+    color: $brand;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  p, li {
+    color: $grey-dark;
+    font-family: $open-sans;
+    font-size: 16px;
+  }
+  a {
+    color: $brand;
+    &:hover {
+      color: darken($brand, 10%);
+    }
+  }
+}
+
 .script-header {
   font-family: 'halohandletterregular';
   font-size: 90px;
