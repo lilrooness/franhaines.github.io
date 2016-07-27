@@ -11,7 +11,6 @@
   text-transform: uppercase;
   font-weight: 300;
   font-size: 20px;
-  margin: 10px;
 }
 
 .btn-white {
@@ -21,6 +20,16 @@
   &:hover {
     color: $grey-dark;
     background: $white;
+  }
+}
+
+.btn-black {
+  border: 2px solid $grey-dark;
+  color: $grey-dark;
+  transition: 0.5s ease all;
+  &:hover {
+    color: $white;
+    background: $grey-dark;
   }
 }
 
