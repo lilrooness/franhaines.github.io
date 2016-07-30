@@ -14,11 +14,24 @@
         </a>
 
         <div class="trigger">
-          {% for my_page in site.pages %}
-            {% if my_page.title %}
-            <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-            {% endif %}
-          {% endfor %}
+          <ul>
+            <li><a href="/" class="page-link">Home</a></li>
+            <li><a href="/about" class="page-link">About</a></li>
+            <li class="dropdown page-link hidden-sm-down">
+              <span class="hidden-sm-down">Portfolio</span>
+              <div class="dropdown-content hidden-sm-down">
+                <a>Portraiture</a>
+                <a>Weddings</a>
+                <a>Landscapes</a>
+                <a>Abstract</a>
+                <a>Animals</a>
+                <a>Events</a>
+                <a>Cityscape</a>
+              </div>
+            </li>
+            <li><a href="/blog" class="page-link">Blog</a></li>
+            <li><a href="/contact" class="page-link">Contact</a></li>
+          </ul>
         </div>
       </nav>
     </div>

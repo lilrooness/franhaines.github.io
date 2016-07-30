@@ -6,3 +6,11 @@ $(window).scroll(function() {
     $('header').removeClass("sticky");
   }
 });
+
+$(".fancybox").fancybox({
+	openEffect  : "fade",
+	closeEffect : "fade",
+	type : "image",
+	'cyclic' : true,
+	'showNavArrows' : true
+});
