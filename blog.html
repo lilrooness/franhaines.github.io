@@ -1,0 +1,38 @@
+---
+layout: page
+title: Blog
+permalink: /blog/
+---
+
+<img src="/assets/img/bath-header.jpg">
+
+<div class="row">
+  <div class="col-md-3">
+    {% for category in site.categories %}
+      <h3 class="grey-dark">{{ category[0] }}</h3>
+      <ul class="list-style-none">
+        {% for post in category[1] %}
+          <li>
+            <a class="link-small" href="{{ post.url }}">{{ post.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    {% endfor %}
+  </div>
+
+  <div class="col-md-9">  
+    <ul class="list-style-none">
+      {% for post in site.posts %}
+        <article class="blog-container">
+          <li>
+            <p class="post-meta">{{ post.date | date: '%B %d, %Y' }}</p>
+            <a class="link-large" href="{{ post.url }}">{{ post.title }}</a>
+            <br>
+            {{post.intro}}
+          </li>
+        </article>
+      {% endfor %}
+    </ul>
+  </div>
+
+</div>
