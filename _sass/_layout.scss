@@ -4,7 +4,7 @@ section {
 
 // Sections
 .grey-bg {
-  background-color: $grey;
+  background-color: $grey-light;
 }
 
 /**
@@ -15,6 +15,7 @@ footer {
   width: 100%;
   background: $grey-dark;
   color: $white;
+  font-size: 16px;
   a {
     text-decoration: none;
     color: $white;
@@ -75,13 +76,34 @@ footer {
 /**
  * Posts
  */
+
+.blog-container {
+  padding: 25px;
+  background-color: $white;
+  border: 1px solid $grey;
+  width: 100%;
+  margin: 25px 0px;
+}
+
 .post-header {
   margin-bottom: $spacing-unit;
+  border-bottom: 1px solid darken($grey, 15%);
+}
+
+.post-meta {
+  font-weight: bold;
+  &:before {
+     font-family: FontAwesome;
+     content: "\f133";
+     display: inline-block;
+     padding-right: 10px;
+     vertical-align: middle;
+  }
 }
 
 .post-title {
   font-size: 42px;
-  letter-spacing: -1px;
+  letter-spacing: -1px;;
   line-height: 1;
 
   @include media-query($on-laptop) {

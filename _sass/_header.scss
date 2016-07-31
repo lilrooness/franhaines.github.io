@@ -182,7 +182,6 @@ header.site-header {
       color: $grey-dark;
       line-height: $base-line-height;
       text-transform: uppercase;
-      font-weight: bold;
       letter-spacing: 2px;
       @include media-query($on-palm) {
         color: $grey-dark;

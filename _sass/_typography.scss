@@ -9,6 +9,13 @@ p {
   font-family: $open-sans;
 }
 
+a.link-large {
+  font-size: 40px;
+}
+a.link-small {
+  font-size: 18px;
+}
+
 .markdown {
   h1 {
     font-family: 'halohandletterregular';
@@ -25,7 +32,10 @@ p {
     font-size: 20px;
     color: $brand;
     text-transform: uppercase;
-    font-weight: bold;
+  }
+
+  h3.grey-dark {
+    color: $grey-dark;
   }
   p, li {
     color: $grey-dark;
