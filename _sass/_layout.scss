@@ -29,6 +29,11 @@ footer {
 /**
  * Page content
  */
+
+ article.post {
+  border-bottom: 1px solid darken($grey, 15%);
+  margin-bottom: 40px;
+}
 .page-content {
   padding: $spacing-unit 0;
 }

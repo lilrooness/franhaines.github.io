@@ -8,16 +8,18 @@ permalink: /blog/
 
 <div class="row">
   <div class="col-md-3">
-    {% for category in site.categories %}
-      <h3 class="grey-dark">{{ category[0] }}</h3>
-      <ul class="list-style-none">
-        {% for post in category[1] %}
-          <li>
-            <a class="link-small" href="{{ post.url }}">{{ post.title }}</a>
-          </li>
-        {% endfor %}
-      </ul>
-    {% endfor %}
+    <article class="blog-container">
+      {% for category in site.categories %}
+        <h3 class="grey-dark">{{ category[0] }}</h3>
+        <ul class="list-style-none">
+          {% for post in category[1] %}
+            <li>
+              <a class="link-small" href="{{ post.url }}">{{ post.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      {% endfor %}
+    </article>
   </div>
 
   <div class="col-md-9">  

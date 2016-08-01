@@ -14,12 +14,20 @@
 }
 
 .btn-white {
+  text-shadow: 5px 5px 20px rgba(0, 0, 0, 1);
   border: 2px solid $white;
   color: $white;
   transition: 0.5s ease all;
+  a {
+    color: inherit;
+    &:hover {
+      color: $grey-dark;
+      text-decoration: none;
+    }
+  }
   &:hover {
-    color: $grey-dark;
     background: $white;
+    text-shadow: none;
   }
 }
 
@@ -27,8 +35,14 @@
   border: 2px solid $grey-dark;
   color: $grey-dark;
   transition: 0.5s ease all;
+  a {
+    color: inherit;
+    &:hover {
+      color: $white;
+      text-decoration: none;
+    }
+  }
   &:hover {
-    color: $white;
     background: $grey-dark;
   }
 }

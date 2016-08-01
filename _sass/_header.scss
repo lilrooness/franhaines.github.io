@@ -1,4 +1,5 @@
 .dropdown {
+  z-index: 100;
   position: relative;
   display: inline-block;
   .dropdown-content {
@@ -23,6 +24,9 @@
 
 .dropdown:hover .dropdown-content {
   display: block;
+  @media screen and (max-width: $on-palm) {
+    display: none;
+  }
 }
 
 /**
@@ -63,12 +67,13 @@ header.header-alternate {
       line-height: $base-line-height;
       text-transform: uppercase;
       letter-spacing: 2px;
+      @media screen and (max-width: 1000px) {
+        font-size: 9px;
+      }
       @include media-query($on-palm) {
         color: $grey-dark;
-      }
-      // Gaps between nav items, but not on the last one
-      &:not(:last-child) {
-        margin-right: 20px;
+        font-size: 14px;
+        float: left;
       }
     }
 
@@ -118,9 +123,6 @@ header.header-alternate {
       .page-link {
         display: block;
         padding: 5px 10px;
-        &:not(:last-child) {
-          margin-right: 0;
-        }
         margin-left: 20px;
       }
     }
@@ -148,7 +150,7 @@ header.site-header {
   .logo {
     min-height: 40px;
   }
-  z-index: 10;
+  z-index: 100;
   padding: 30px 0px;
   text-align: center;
   top: 0;
@@ -183,8 +185,10 @@ header.site-header {
       line-height: $base-line-height;
       text-transform: uppercase;
       letter-spacing: 2px;
+      font-size: 14px;
       @include media-query($on-palm) {
         color: $grey-dark;
+        float: left;
       }
     }
 
@@ -242,6 +246,9 @@ header.site-header {
   float: left;
   .logo {
     height: 65px;
+    @media screen and (max-width: 1000px) {
+      height: 50px;
+    }
   }
 }
 
