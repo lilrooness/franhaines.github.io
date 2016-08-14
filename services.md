@@ -4,47 +4,48 @@ title: Services
 permalink: /services/
 ---
 
-![Picturesque Photo of Pulteney Bridge, UK](/assets/img/bath-header.jpg "Picturesque Photo of Pulteney Bridge, UK")
+![Photo of City Cyclist](/assets/img/bike-header.jpg "Photo of City Cyclist")
 
 <br>
 
 # Services.
 
-## A wide range of photography for your event, wedding and portraits. Prices are negotiable and please [get in touch](/contact) for any bespoke projects.
+## A wide range of photography for your event, wedding and portraits. Prices are negotiable, please [get in touch](/contact) to discuss your next event!
 
 <br>
 
+### Full Wedding Day
 
-### Full Wedding
+* Includes a full day of photography from bridal preparations to first dance.
+* A photo-book or CD of photos.
+* Couple and family portraiture around the wedding venue
 
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non enim non lacus consectetur hendrerit ac sit amet urna. Phasellus commodo tortor et iaculis volutpat.
-* Lorem ipsum dolor sit a.
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non enim non lacus consectetur hendrerit ac sit amet urna. Phasellus commodo tortor et iaculis volutpat.
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non enim non lacus consectetur hendrerit ac sit amet urna. Phasellus commodo tortor et iaculis volutpat.
-
-
-#### **Total Cost:** £800
+#### **Total Cost:** £500
 
 <br>
 
-### Family Portraiture
+### Corporate Events
 
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non enim non lacus consectetur hendrerit ac sit amet urna. Phasellus commodo tortor et iaculis volutpat.
-* Lorem ipsum dolor sit a.
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non enim non lacus consectetur hendrerit ac sit amet urna. Phasellus commodo tortor et iaculis volutpat.
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non enim non lacus consectetur hendrerit ac sit amet urna. Phasellus commodo tortor et iaculis volutpat.
+* Includes full coverage of the event with group shots and planned shots.
+* A photo-book or CD of photos
+* A choice of either full or half day coverage.
 
-
-#### **Total Cost:** £800
+#### **Total Cost:** Half Day £150 or Full Day £250
 
 <br>
 
-### Couples Portraiture
+### Group Portraiture (Couple or Family)
 
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non enim non lacus consectetur hendrerit ac sit amet urna. Phasellus commodo tortor et iaculis volutpat.
-* Lorem ipsum dolor sit a.
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non enim non lacus consectetur hendrerit ac sit amet urna. Phasellus commodo tortor et iaculis volutpat.
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non enim non lacus consectetur hendrerit ac sit amet urna. Phasellus commodo tortor et iaculis volutpat.
+* An hour-long session at a venue of the client's choice.
+* A photo-book or CD of photos
 
+#### **Total Cost:** £80
 
-#### **Total Cost:** £800
+<br>
+
+### Pet Portraiture
+
+* An hour-long session at the client's house and garden.
+* A photo-book or CD of photos
+
+#### **Total Cost:** £60

@@ -3,13 +3,14 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <title>Emma May Photography: Wedding and Event photography in Bath | {{ site.title }}</title>
+  <meta name="description" content="Photography based in Bath, Bristol, Gloucestershire and Worcestershire. Event and wedding photography for reasonable prices.">
+  <meta name="keywords" content="Photography, Photographer, Bath Photography, Bath Photographer, Wedding Photographer Bath, Event Photographer Bath, Bristol Photographer">
 
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="/libs/bootstrap/dist/css/bootstrap.min.css">
   <link rel="stylesheet" href="/libs/components-font-awesome/css/font-awesome.min.css">
-  <link rel="stylesheet" href="/libs/fancybox/source/jquery.fancybox.css" type="text/css" media="screen" />
+  <link rel="stylesheet" href="/libs/fancyBox/source/jquery.fancybox.css" type="text/css" media="screen" />
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 </head>
