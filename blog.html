@@ -4,11 +4,11 @@ title: Blog
 permalink: /blog/
 ---
 
-<img src="/assets/img/bath-header.jpg">
+<img src="/assets/img/bath-abbey-header.jpg">
 
 <div class="row">
   <div class="col-md-3">
-    <article class="blog-container">
+    <article class="sidebar-container blog">
       {% for category in site.categories %}
         <h3 class="grey-dark">{{ category[0] }}</h3>
         <ul class="list-style-none">
@@ -25,7 +25,7 @@ permalink: /blog/
   <div class="col-md-9">  
     <ul class="list-style-none">
       {% for post in site.posts %}
-        <article class="blog-container">
+        <article class="sidebar-container">
           <li>
             <p class="post-meta">{{ post.date | date: '%B %d, %Y' }}</p>
             <a class="link-large" href="{{ post.url }}">{{ post.title }}</a>

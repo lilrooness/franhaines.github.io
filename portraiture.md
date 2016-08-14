@@ -49,3 +49,27 @@ permalink: /portfolio/portraiture/
     <a href="/assets/img/portraiture/port10-full.jpg" rel="portraiture" class="fancybox" title=""><img class="img-responsive" src="/assets/img/portraiture/port10-thumb.jpg" /></a>
   </figure>
 </div>
+
+<div class="row">
+  <figure class="col-xs-6 col-md-3 image-link pb-md">
+    <a href="/assets/img/portraiture/port11-full.jpg" rel="portraiture" class="fancybox" title=""><img class="img-responsive" src="/assets/img/portraiture/port11-thumb.jpg" /></a>
+  </figure>
+  <figure class="col-xs-6 col-md-3 image-link pb-md">
+    <a href="/assets/img/portraiture/port12-full.jpg" rel="portraiture" class="fancybox" title=""><img class="img-responsive" src="/assets/img/portraiture/port12-thumb.jpg" /></a>
+  </figure>
+  <figure class="col-xs-6 col-md-3 image-link pb-md">
+    <a href="/assets/img/portraiture/port13-full.jpg" rel="portraiture" class="fancybox" title=""><img class="img-responsive" src="/assets/img/portraiture/port13-thumb.jpg" /></a>
+  </figure>
+  <figure class="col-xs-6 col-md-3 image-link pb-md">
+    <a href="/assets/img/portraiture/port14-full.jpg" rel="portraiture" class="fancybox" title=""><img class="img-responsive" src="/assets/img/portraiture/port14-thumb.jpg" /></a>
+  </figure>
+</div>
+
+<div class="row">
+  <figure class="col-xs-6 col-md-3 image-link pb-md">
+    <a href="/assets/img/portraiture/port15-full.jpg" rel="portraiture" class="fancybox" title=""><img class="img-responsive" src="/assets/img/portraiture/port15-thumb.jpg" /></a>
+  </figure>
+  <figure class="col-xs-6 col-md-3 image-link pb-md">
+    <a href="/assets/img/portraiture/port16-full.jpg" rel="portraiture" class="fancybox" title=""><img class="img-responsive" src="/assets/img/portraiture/port16-thumb.jpg" /></a>
+  </figure>
+</div>
