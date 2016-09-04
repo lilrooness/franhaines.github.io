@@ -15,7 +15,7 @@
 
 .btn-white {
   text-shadow: 5px 5px 20px rgba(0, 0, 0, 1);
-  border: 2px solid $white;
+  border: 1px solid $white;
   color: $white;
   transition: 0.5s ease all;
   a {
@@ -32,7 +32,7 @@
 }
 
 .btn-black {
-  border: 2px solid $grey-dark;
+  border: 1px solid $grey-dark;
   color: $grey-dark;
   transition: 0.5s ease all;
   a {
