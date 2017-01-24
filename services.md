@@ -17,17 +17,17 @@ permalink: /services/
 ### Full Wedding Day
 
 * Includes a full day of photography from bridal preparations to first dance.
-* A photo-book or CD of photos.
+* A photo-book or copy of digital photos.
 * Couple and family portraiture around the wedding venue
 
-#### **Total Cost:** £500
+#### **Total Cost:** £500 - £1000 
 
 <br>
 
 ### Corporate Events
 
 * Includes full coverage of the event with group shots and planned shots.
-* A photo-book or CD of photos
+* A copy of digital photos
 * A choice of either full or half day coverage.
 
 #### **Total Cost:** Half Day £150 or Full Day £250
@@ -37,15 +37,15 @@ permalink: /services/
 ### Group Portraiture (Couple or Family)
 
 * An hour-long session at a venue of the client's choice.
-* A photo-book or CD of photos
+* Printed photos or digital copies 
 
-#### **Total Cost:** £80
+#### **Total Cost:** £80 - £200
 
 <br>
 
 ### Pet Portraiture
 
 * An hour-long session at the client's house and garden.
-* A photo-book or CD of photos
+* Printed photos or digital copies 
 
-#### **Total Cost:** £60
+#### **Total Cost:** £60 - £200
