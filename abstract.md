@@ -43,10 +43,10 @@ permalink: /portfolio/abstract/
     <a href="/assets/img/abstract/abstract11-full.jpg" rel="abstract" class="fancybox" title=""><img class="img-responsive" src="/assets/img/abstract/abstract11-thumb.jpg" /></a>
   </figure>
   <figure class="col-xs-6 col-sm-6 col-md-3 image-link pb-md">
-    <a href="/assets/img/Abstract/abstract13-full.jpg" rel="abstract" class="fancybox" title=""><img class="img-responsive" src="/assets/img/Abstract/abstract13-thumb.jpg" /></a>
+    <a href="/assets/img/abstract/abstract13-full.jpg" rel="abstract" class="fancybox" title=""><img class="img-responsive" src="/assets/img/abstract/abstract13-thumb.jpg" /></a>
   </figure>
    <figure class="col-xs-6 col-sm-6 col-md-3 image-link pb-md">
-    <a href="/assets/img/Abstract/abstract14-full.jpg" rel="abstract" class="fancybox" title=""><img class="img-responsive" src="/assets/img/Abstract/abstract14-thumb.jpg" /></a>
+    <a href="/assets/img/abstract/abstract14-full.jpg" rel="abstract" class="fancybox" title=""><img class="img-responsive" src="/assets/img/abstract/abstract14-thumb.jpg" /></a>
   </figure>
 </div>
 
