@@ -106,6 +106,6 @@ permalink: /portfolio/landscapes/
 </div>
 <div class="row">
   <figure class="col-xs-6 col-sm-6 col-md-3 image-link pb-md">
-    <a href="/assets/img/landscapes/test.jpg" rel="landscape" class="fancybox" title=""><img class="img-responsive" src="/assets/img/landscapes/testthumb.jpg" /></a>
+    <a href="/assets/img/landscapes/test.jpg" rel="landscape" class="fancybox" title=""><img class="img-responsive" src="/assets/img/landscapes/thumbtest.jpg" /></a>
   </figure>
 </div>
